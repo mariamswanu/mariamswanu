@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariamswanu
-- 👀 I’m interested in  Java C++ and Javascript 
-- 🌱 I’m currently learning at Duquesne University
+- 👀 I love Java C++ and Javascript 
+- 🌱  Duquesne University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mariamsuanberete@gmail.com
 
