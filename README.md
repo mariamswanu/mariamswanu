@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mariamswanu
-- 👀 I love Java C++ and Javascript 
+- 👋 HOLA
+- 👀 Java, C++ ,and Javascript 
 - 🌱  Duquesne University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mariamsuanberete@gmail.com
